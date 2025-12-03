@@ -4,7 +4,7 @@
 An algorithmic trading simulation built with **Python**, where Alex—an aspiring programmer and finance enthusiast—uses technical indicators to make data-driven trading decisions in the stock market.
 
 This project demonstrates how **Simple Moving Averages (SMA)** can be used to identify **Golden Cross** and **Death Cross** signals to automate buy and sell decisions while managing capital responsibly.
-
+<a href="https://drive.google.com/file/d/1y3YUjLQL2pqQ7c01Cvi7U1eioBm70nsB/view?usp=drive_link" target="_blank"><b>🎥 Watch Demo Video</b></a>
 ---
 
 ## 🧠 Strategy Overview
