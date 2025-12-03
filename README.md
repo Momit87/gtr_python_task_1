@@ -46,8 +46,8 @@ This project demonstrates how **Simple Moving Averages (SMA)** can be used to id
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/alex-trading-adventure.git
-cd alex-trading-adventure
+git clone https://github.com/Momit87/gtr_python_task_1.git
+cd gtr_python_task_1
 ````
 
 ### 2️⃣ Create Virtual Environment (Optional but Recommended)
